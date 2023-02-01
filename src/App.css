@@ -1,0 +1,32 @@
+.app{
+  background: #1D2B64;
+    background: -webkit-linear-gradient(to right, #F8CDDA, #1d2b6493);  
+    background: linear-gradient(to right, #F8CDDA, #1d2b64c0);
+    height: 100vh;
+    overflow: hidden;
+}
+
+.room-items{
+  margin-top: 20%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.room-name{
+  margin: 10px;
+  font-size: 25px;
+   color: rgba(255, 255, 255, 0.685);
+}
+.ip{
+  width: 300px;
+  height: 20px;
+  padding: 10px;
+  font-size: 20px;
+  border: 1px lightblue;
+  border-radius: 5px;
+}
+.sign-out{
+  text-align: center;
+}
