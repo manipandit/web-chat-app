@@ -1,3 +1,18 @@
+# Chat App
+## This is a chat application that allows multiple users to chat together in a single room . 
+![chat](https://user-images.githubusercontent.com/110151059/216076281-434e61e4-d5ee-4fc8-af6f-7146fe923d3f.jpg)
+
+
+### Authentication is provided by Firebase and users are authenticated via their gmail id
+
+![signin](https://user-images.githubusercontent.com/110151059/216076886-d0225657-2cd7-43bd-832c-b7004dbb3414.jpg)
+
+### After successful authentication user can enter room name and user name
+
+![entry](https://user-images.githubusercontent.com/110151059/216077235-9ef834ae-453c-4347-81db-d4c1db8fd111.jpg)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
